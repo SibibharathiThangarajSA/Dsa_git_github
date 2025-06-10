@@ -1,6 +1,5 @@
 package my_dsa3;
 
-import my_dsa3.Singly_Linked_List.Node;
 
 public class ssl_reverse {
 	Node head;
